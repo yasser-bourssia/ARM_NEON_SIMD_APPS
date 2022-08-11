@@ -1,4 +1,4 @@
-This repository contains two applications of the ARM Neon SIMD.
+This repository contains two applications of the ARM Neon SIMD, put in an Android application for mobile devices.
 
 First is an application of the Newton-Raphson algorithm, as it allows to solve multiple polynomials parallely.
 
